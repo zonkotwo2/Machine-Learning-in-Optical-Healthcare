@@ -8,20 +8,15 @@ This project explored machine learning approaches for classifying brain states f
 ## Aims
 • Literature review of laser speckle imaging.
 • Retrieve the human brain signal from the raw speckle data.
-• Build AI models based on the processed data to distinguish two different brain
-states.
+• Build AI models based on the processed data to distinguish two different brain states.
 • Try different data processing techniques and machine learning classifiers.
 
 ## Objectives
 • Examine different studies to see the gap for my experiment.
-• Examine the terms around ‘Artificial Intelligence’
-, specifically ones pertinent to
-this study.
-• Process data with optical flow, cross-correlation and contrast correlation with
-detailed mathematics behind each of these systems.
+• Examine the terms around ‘Artificial Intelligence’, specifically ones pertinent to this study.
+• Process data with optical flow, cross-correlation and contrast correlation with detailed mathematics behind each of these systems.
 • Use processed data on various machine learning algorithms.
-• Detail the effectiveness of each combination of data processing technique and
-machine learning algorithm.
+• Detail the effectiveness of each combination of data processing technique and machine learning algorithm.
 • Detailing technique(s) for Cerebral Blood Flow detection.
 
 ## Contents
