@@ -1,3 +1,4 @@
+# Abstract
 Accurate, non-invasive monitoring of cerebral blood flow is essential for advancing functional neuroimaging and understanding neural dynamics under cognitive stimulus. Traditional imaging methods are limited by cost, invasiveness, and poor temporal resolution, creating a need for more accessible, real-time alternatives.
 
 This project aimed to evaluate whether laser speckle imaging, in combination with machine learning techniques, could classify brain states, relaxing versus visually stimulated, based on hemodynamic fluctuations in the occipital lobe. The study also explored the viability of convolutional neural networks on a small neuroimaging dataset, despite their known data dependency.
