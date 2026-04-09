@@ -21,8 +21,6 @@ This project explored machine learning approaches for classifying brain states f
 
 ## Contents
 - Thesis.pdf
-- figures/
-- code/
 
 ## Methods used
 - SVM
